@@ -1,3 +1,4 @@
+/*
 package sept.ex_23092024;
 
 public class Task3 {
@@ -19,3 +20,4 @@ public class Task3 {
     }
     }
 
+*/
