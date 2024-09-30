@@ -2,6 +2,7 @@ package sept.ex_25092024;
 
 public class Task3_1 {
     public static void main(String[] args) {
+        //Prime number from 1 to 100 using For loop
         int i,m=0,flag=0;
         int n=3;
         m=n/2;
